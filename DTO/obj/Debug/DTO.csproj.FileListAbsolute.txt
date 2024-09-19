@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DTO\obj\Debug\DTO.pdb

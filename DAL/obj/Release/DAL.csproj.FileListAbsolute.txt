@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DAL\bin\Release\DAL.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DAL\bin\Release\DAL.pdb
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DAL\bin\Release\DTO.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DAL\bin\Release\DTO.pdb
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DAL\obj\Release\DAL.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\DAL\obj\Release\DAL.pdb

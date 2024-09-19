@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUITest.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUITest.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUI.GUI_DangNhap.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUI.GUI_HoaDonBan.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUI.GUI_HoaDonNhap.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUI.GUI_KhachHang.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUI.GUI_LoaiHang.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUI.GUI_MatHang.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUI.GUI_NhaCC.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUI.GUI_NhanVien.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUI.Menu.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUITest.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUITest.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\GUITest\obj\Debug\GUITest.csproj.CoreCompileInputs.cache

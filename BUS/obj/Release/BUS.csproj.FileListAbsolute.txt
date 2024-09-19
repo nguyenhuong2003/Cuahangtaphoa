@@ -1,0 +1,2 @@
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\demo\obj\Debug\GUI.GUI_DangNhap.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache

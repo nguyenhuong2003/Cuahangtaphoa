@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\bin\Debug\BUS.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\bin\Debug\DTO.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\bin\Debug\DTO.pdb
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\obj\Debug\BUS.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\obj\Debug\BUS.pdb
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\bin\Debug\System.IO.Packaging.dll
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\source\repos\Winforms\Đồ_Án1\DoAn1_QuanLyTapHoa\BUS\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
